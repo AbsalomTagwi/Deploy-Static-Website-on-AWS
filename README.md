@@ -1,0 +1,2 @@
+# Deploy-Static-Website-on-AWS
+1. Create an S3 Bucket. 2. Make it Publicly Accessible. 3. Upload files to Bucket. 4. Enable Static Website Hosting. 5. Write Bucket Policy in JSON which provides access to objects stored in the bucket. 6. Create a Cloud Front distribution. 7. Access website via Distribution Domain Name URL. 8. Access website via Website Endpoint URL. 9. Access website via S3 Object URL. 10. 
